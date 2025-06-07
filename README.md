@@ -1,6 +1,6 @@
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliu07&layout=compact&theme=radical" alt="Top Languages" style="width: 70%; margin: 10px 0;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliu07&show_icons=true&hide_rank=true&theme=radical" alt="Alexander's GitHub Stats" style="width: 70%; margin: 10px 0;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliu07&theme=radical" alt="GitHub Streak" style="width: 70%; margin: 10px 0;" />
-</div>
+# Hello
+I'm Alex. Currently wrapping up my undergrad in Software Engineering at McGill University.
+
+I'm also a big fan of water sports and paddle competitively. Honoured to be joining the Canadian national team to compete at the 17th IDBF World Dragon Boat Racing Championships (WDBRC2025) in Brandenburg. See you in Germany!
+
+You will find all the latest side projects I'm working on here. 
